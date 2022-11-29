@@ -30,3 +30,7 @@
 
 # cat command (cat stands for catalog)
 # To show the contents of a text file (file that has characters that are printable on the screen)
+
+# more command (catalogs a text file page by page ). To advance use the space key, to quit press q (or press CTRL-C)
+
+# clear command clears the screen
